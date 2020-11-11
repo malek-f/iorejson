@@ -20,7 +20,7 @@
   "homepage": "https://github.com/evanhuang8/iorejson#readme",
   "license": "MIT",
   "dependencies": {
-    "ioredis": "2.5.x",
+    "ioredis": "4.19.x",
     "lodash": "4.17.x"
   },
   "devDependencies": {
